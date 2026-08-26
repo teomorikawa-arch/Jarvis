@@ -1,0 +1,9 @@
+{
+  "name": "jarvis",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Henkilökohtainen avustaja. Staattinen etusivu + yksi Vercel-funktio backendina.",
+  "engines": {
+    "node": ">=18"
+  }
+}
